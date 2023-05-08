@@ -1,0 +1,1 @@
+Week Ending Date|Practice Name|Practice Address Line 1|Practice Address Line 2|City|State|Zip Code|Provider First Name|Provider Last Name|Provider NPI|Specialty 1|Specialty 2|alert 6
